@@ -20,3 +20,8 @@ O sistema utiliza a biblioteca **`java.time`** para capturar o **horário de ent
 
 ## Geração do Ticket
 Após utilizar a opção de retirada de veículo, o sistema solicita a **placa do veículo** e gera um **arquivo .txt** com as informações do veículo, como número da vaga, bloco, piso, modelo, e horário de entrada e saída. Além disso, o sistema calcula o tempo total de estacionamento e o valor a ser pago pelo cliente.
+
+## Desconto
+O sistema oferece um **desconto especial** para veículos cujas **placas** contêm as letras **L**, **U**, **I**, **S** (independente da ordem). Quando o sistema detecta essas letras na placa do veículo, ele aplica um **desconto fixo** no valor total a ser pago.
+
+Por exemplo, para uma placa como **LUI1S23** ou **ILU2S33**, o sistema identificará as letras **L**, **U**, **I**, e **S**, e aplicará o desconto.
