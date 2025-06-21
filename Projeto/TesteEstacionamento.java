@@ -15,7 +15,7 @@ public class TesteEstacionamento {
         int op, vagas = 30; //opção, máximo de vagas
 
         do {
-            System.out.println("\n=== ESTACIONAMENTO GARAGEM BOYS ===");
+            System.out.println("\n=== ESTACIONAMENTO ===");
             System.out.println("\n1 - Cadastrar Veículo e Vaga");
             System.out.println("\n2 - Retirar Veículo (Gerar Ticket)");
             System.out.println("\n3 - Listar Veículos no Estacionamento");
