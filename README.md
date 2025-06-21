@@ -1,7 +1,7 @@
 # Sistema de Estacionamento
  Projeto desenvolvido no Colégio Engenheiro Salvador Arena para a disciplina de  Algoritmos e Linguagens de Programação
 
-O projeto **Estacionamento Garagem Boys** é uma aplicação Java que simula o controle de um estacionamento, onde é possível cadastrar veículos, retirar veículos e gerar tickets de saída. A aplicação permite a gestão de até 30 vagas, realizando verificações de ocupação e mantendo o controle de veículos estacionados.
+O projeto é uma aplicação Java que simula o controle de um estacionamento, onde é possível cadastrar veículos, retirar veículos e gerar tickets de saída. A aplicação permite a gestão de até 30 vagas, realizando verificações de ocupação e mantendo o controle de veículos estacionados.
 
 ## Funcionalidades
 O sistema oferece três funcionalidades principais:
